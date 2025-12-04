@@ -1,2 +1,3 @@
 # Learning-repo
-This is my learning repo i will be practicing git and github here
+This is my learning repo i will be practicing git and github here...
+The day is not so far that i will master these skills.
